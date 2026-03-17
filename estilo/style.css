@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin: 10px;
+}
+
+div#central {
+    padding: 10px;
+}
+
+div#temp {
+    float: right;
+    margin-right: 10%;
+    padding: 5px;
+}
+
+textarea#textDigitar {
+    display: inline-block;
+    width: 97%;
+    height: 60ch;
+}
+
+input#resetar {
+    float: right;
+    margin-right: 10%;
+    padding: 3px;
+}
