@@ -21,16 +21,17 @@ div#temp {
     padding: 5px;
 }
 
-label#textIniciar {
+div#textIniciar {
     float: left;
     padding: 10px;
 }
 
-textarea#textDigitar {
+div#textDigitar {
     display: inline-block;
     padding: 10px;
     height: 60vh;
     width: 90vw;
+    border: 1px solid black;
 }
 
 input#resetar {
