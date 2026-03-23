@@ -12,18 +12,25 @@ h1 {
 
 div#central {
     padding: 10px;
+    text-align: center;
 }
 
 div#temp {
     float: right;
-    margin-right: 10%;
+    margin-right: 5vw;
     padding: 5px;
+}
+
+label#textIniciar {
+    float: left;
+    padding: 10px;
 }
 
 textarea#textDigitar {
     display: inline-block;
-    width: 97%;
-    height: 60ch;
+    padding: 10px;
+    height: 60vh;
+    width: 90vw;
 }
 
 input#resetar {
